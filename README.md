@@ -8,3 +8,4 @@ DAY 2: Conditional Statements: if-else
 DAY 2: Conditional Statements: switch
 DAY 2: Loops
 DAY 3: Arrays
+DAY 4: Create a Rectangle Object 
