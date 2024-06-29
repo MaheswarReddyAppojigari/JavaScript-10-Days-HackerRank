@@ -5,4 +5,6 @@ DAY 1: Arithmetic Operators
 DAY 1: Functions
 DAY 1:Let and Const
 DAY 2: Conditional Statements: if-else
-
+DAY 2: Conditional Statements: switch
+DAY 2: Loops
+DAY 3: Arrays
